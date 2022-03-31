@@ -1,7 +1,7 @@
 <h1 align='center'> Hello my friend 👋, I'm Fahmid Shafath Tasin 💻 </h1>
 
 <p align="center">
-  <br><img src="https://github.com/ssabit/ssabit/blob/master/developer.gif" width="450px"><br><br>
+  <br><img src="https://github.com/fahmidtasin/fahmidtasin/blob/master/developer.gif" width="450px"><br><br>
   <samp>Software Engineer</samp><br>
   <samp>IT Executive at Famous Thread And Accessories</samp>
   <br>
