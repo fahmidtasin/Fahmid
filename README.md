@@ -3,7 +3,6 @@
 <p align="center">
   <br><img src="https://github.com/fahmidtasin/fahmidtasin/blob/master/developer.gif" width="450px"><br><br>
   <samp>Software Engineer</samp><br>
-  <samp>IT Executive at Famous Thread And Accessories</samp>
   <br>
 </p>
 
