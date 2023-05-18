@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/fahmidtasin/fahmidtasin/blob/master/developer.gif" width="450px"><br><br>
-  <samp>Web Developer</samp><br>
+  <samp>Software Engineer</samp><br>
   <br>
 </p>
 
